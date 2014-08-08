@@ -1,474 +1,0 @@
-Ttestdraw
-v6
-r1
-cCheck dependencies
-cProcessPCH /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch testdraw/testdraw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw normal i386
-cCpResource testPicture.jpg xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg
-cCopyStringsFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings testdraw/en.lproj/InfoPlist.strings
-cCompileStoryboard /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets
-cProcessInfoPlistFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist
-cGenerateDSYMFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw
-cTouch /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c0000000053BD6E6100000000000003B4
-t1404923489
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053BD6E70000000000000019E
-t1404923504
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000053BD6E750000000000446820
-t1404923509
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-c0000000053BD6E7600000000002FC3B0
-t1404923510
-s3130288
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000053BD6E78000000000088D8C0
-t1404923512
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000053BD6E810000000001F1DE10
-t1404923521
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053BD6EE20000000000000ADC
-t1404923618
-s2780
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testPicture.jpg
-c0000000053E354E30000000000011D54
-t1407407331
-s73044
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard
-c0000000053E435480000000000000C3C
-t1407464776
-s3132
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets
-c0000000053E357BA00000000000000AA
-t1407408058
-s170
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m
-c0000000053DF2C3100000000000007D6
-t1407134769
-s2006
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m
-c0000000053E4433800000000000033F5
-t1407468344
-s13301
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m
-c0000000053E1E73000000000000008F9
-t1407313712
-s2297
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m
-c0000000053E448090000000000000C03
-t1407469577
-s3075
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/en.lproj/InfoPlist.strings
-c0000000053DF2C31000000000000002D
-t1407134769
-s45
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m
-c0000000053DF2C31000000000000014C
-t1407134769
-s332
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist
-c0000000053DF2C3100000000000004C1
-t1407134769
-s1217
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Prefix.pch
-c0000000053DF2C310000000000000158
-t1407134769
-s344
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch
-t1407474482
-s116272
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o
-t1407474482
-s62564
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o
-t1407474482
-s89108
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o
-t1407474482
-s6112
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o
-t1407474482
-s57616
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o
-t1407474482
-s3560
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/testdraw.LinkFileList
-c0000000053E45B240000000000000361
-t1407474468
-s865
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_dependencies.txt
-t1407474485
-s456
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_generated_info.plist
-t1407474485
-s525
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app
-t1407474485
-s340
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM
-t2
-s0
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Base.lproj/Main.storyboardc
-t1407474485
-s170
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist
-t1407474485
-s1006
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/PkgInfo
-t1407474485
-s8
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings
-t1407474482
-s42
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg
-t1407474482
-s73044
-
-N/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw
-t1407474482
-s59236
-
-CBuild AST from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m
-r0
-
-CBuild AST from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m
-r0
-
-CBuild AST from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m
-r0
-
-CBuild AST from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m
-r0
-
-CBuild AST from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6efb1aa49294b941^d99433a49294b941^---0#1#1#--18"Check dependencies36"70B04E35-B58F-4E64-B4A8-BAF7CF169523-
-
-CCompileAssetCatalog /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets
-s429167282.614438
-e429167285.706841
-r1
-xCompileAssetCatalog
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets
-o2014-08-08 13:08:04.435 IBCocoaTouchImageCatalogTool[3830:303] CFPreferences: user home directory at file:///Users/jesse/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-o/* com.apple.actool.compilation-results */
-o/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/LaunchImage-700-568h@2x.png
-o/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Assets.car
-o/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CompileAssetCatalog xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app testdraw/Images.xcassets114"CompileAssetCatalog xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app testdraw/Images.xcassetsd95c9db29294b941^6ff5b4b59294b941^-707"2014-08-08 13:08:04.435 IBCocoaTouchImageCatalogTool[3830:303] CFPreferences: user home directory at file:///Users/jesse/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/LaunchImage-700-568h@2x.png/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Assets.car/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@77"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets/0000000000000000^1256"CompileAssetCatalog xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app testdraw/Images.xcassets    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Images.xcassets36"27E98AA3-46DD-4C58-AAB2-96D4C26C3BA0-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167282.368943
-e429167282.456179
-r1
-xCompileC
-xxcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m233"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o testdraw/JJvvAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler87895eb29294b941^cdc874b29294b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m0000000000000000^4054"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o testdraw/JJvvAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -include /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.d --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.dia -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.m -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o36"21432A71-9188-4009-9EF2-1976F8E2A467-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167282.253191
-e429167282.445453
-r1
-xCompileC
-xxcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.h
-o/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m:261:22: warning: 'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes: [-Wdeprecated-declarations]
-o    CGSize size = [s sizeWithFont:font];
-o                     ^
-oIn module 'UIKit' imported from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h:9:
-o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:59:1: note: method 'sizeWithFont:' declared here
-o- (CGSize)sizeWithFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -sizeWithAttributes:");
-o^
-o/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m:269:16: warning: 'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes: [-Wdeprecated-declarations]
-o            [s drawInRect:textRect withFont:font];
-o               ^
-oIn module 'UIKit' imported from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h:9:
-o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:73:1: note: method 'drawInRect:withFont:' declared here
-o- (CGSize)drawInRect:(CGRect)rect withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawInRect:withAttributes:");
-o^
-o2 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m243"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o testdraw/JJvvArcsectorControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86e840b29294b941^c40772b29294b941^-1502"/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m:261:22: warning: 'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes: [-Wdeprecated-declarations]    CGSize size = [s sizeWithFont:font];                     ^In module 'UIKit' imported from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:59:1: note: method 'sizeWithFont:' declared here- (CGSize)sizeWithFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -sizeWithAttributes:");^/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m:269:16: warning: 'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes: [-Wdeprecated-declarations]            [s drawInRect:textRect withFont:font];               ^In module 'UIKit' imported from /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:73:1: note: method 'drawInRect:withFont:' declared here- (CGSize)drawInRect:(CGRect)rect withFont:(UIFont *)font NS_DEPRECATED_IOS(2_0, 7_0, "Use -drawInRect:withAttributes:");^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@85"'sizeWithFont:' is deprecated: first deprecated in iOS 7.0 - Use -sizeWithAttributes:-429167282#18446744073709551615#0#1(2@36"Method 'sizeWithFont:' declared here-429167282#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^58#0#58#0#3133#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@83"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m0000000000000000^260#21#260#21#8912#0#12"Deprecations--2@99"'drawInRect:withFont:' is deprecated: first deprecated in iOS 7.0 - Use -drawInRect:withAttributes:-429167282#18446744073709551615#0#1(2@43"Method 'drawInRect:withFont:' declared here-429167282#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^72#0#72#0#4699#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@83"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m0000000000000000^268#15#268#15#9192#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@83"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m0000000000000000^4084"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o testdraw/JJvvArcsectorControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -include /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.d --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.dia -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.m -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o36"2AD7BE05-2CAA-4F84-BD38-DED941FDBDCE-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167282.253692
-e429167282.368532
-r1
-xCompileC
-xxcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m219"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o testdraw/JJvvMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler000341b29294b941^e2595eb29294b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m0000000000000000^4012"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o testdraw/JJvvMath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -include /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.d --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.dia -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvMath.m -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o36"D24BFF45-5AA6-4B87-A58B-ECEF6060C2DC-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167282.445839
-e429167282.517361
-r1
-xCompileC
-xxcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.h
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvArcsectorControl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m239"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o testdraw/JJvvViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere33672b29294b941^4f7584b29294b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m0000000000000000^4072"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o testdraw/JJvvViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -include /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.d --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.dia -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvViewController.m -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o36"1970A7EC-CD3B-4834-A6C4-6D59612CCC2E-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167282.456579
-e429167282.490720
-r1
-xCompileC
-xxcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/JJvvAppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m211"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o testdraw/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler51f874b29294b941^aea07db29294b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m0000000000000000^3988"CompileC xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o testdraw/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -include /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.dia -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/main.m -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o36"407B7C98-BE4B-441C-BDD2-152B754ACCC2-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCompileStoryboard /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard
-s429167282.576128
-e429167285.158261
-r1
-xCompileStoryboard
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard
-o2014-08-08 13:08:04.416 Interface Builder Cocoa Touch Tool[3829:303] CFPreferences: user home directory at file:///Users/jesse/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard testdraw/Base.lproj/Main.storyboard53"CompileStoryboard testdraw/Base.lproj/Main.storyboard228893b29294b941^738428b59294b941^-229"2014-08-08 13:08:04.416 Interface Builder Cocoa Touch Tool[3829:303] CFPreferences: user home directory at file:///Users/jesse/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@87"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard0000000000000000^880"CompileStoryboard testdraw/Base.lproj/Main.storyboard    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Base.lproj/Main.storyboardc /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/Base.lproj/Main.storyboard36"BBEA3088-8EA3-41F6-8474-952DF802B8BE-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCopyStringsFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings testdraw/en.lproj/InfoPlist.strings
-s429167282.574611
-e429167282.612849
-r1
-xCopyStringsFile
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings
-xtestdraw/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy testdraw/en.lproj/InfoPlist.strings148"CopyStringsFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings testdraw/en.lproj/InfoPlist.strings732c93b29294b941^7714c7b29294b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/en.lproj/InfoPlist.strings0000000000000000^649"CopyStringsFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj/InfoPlist.strings testdraw/en.lproj/InfoPlist.strings    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/en.lproj -- testdraw/en.lproj/InfoPlist.strings36"9686FA71-ACA2-499C-A033-AE5D91C66FAC-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CCpResource testPicture.jpg xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg
-s429167282.574228
-e429167282.576017
-r1
-xCpResource
-xtestPicture.jpg
-xxcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg112"CpResource testPicture.jpg xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg661093b29294b941^2e8d93b29294b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg003474addfffdf42^648"CpResource testPicture.jpg xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testPicture.jpg    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Volumes/Disk1/Src/testdraw/ArcSectorControl/testPicture.jpg /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app36"037C84DC-FEE2-4132-B1B1-452E0B38B6E2-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CGenerateDSYMFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw
-s429167285.741699
-e429167285.791301
-r1
-xGenerateDSYMFile
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Generate /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM170"GenerateDSYMFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw9df5bdb59294b941^83a1cab59294b941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM003474addfffdf42^765"GenerateDSYMFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app.dSYM36"9021FB29-79D3-4393-8A04-D285DC97AE1F-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CLd /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw normal i386
-s429167282.518426
-e429167282.573354
-r1
-xLd
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw
-xnormal
-xi386
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/testdraw.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvArcsectorControl.o
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvMath.o
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvAppDelegate.o
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/JJvvViewController.o
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-old: warning: directory not found for option '-L/Volumes/VMware'
-old: warning: directory not found for option '-LShared'
-old: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox'
-old: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-armv7-ipad-release(pptv)-1.1.0.8319/ios-armv7.ipad'
-old: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.6503/ios-simulator.ipad'
-old: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.8310/ios-simulator.ipad'
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw93"Ld xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw normal i38608c784b29294b941^71c892b29294b941^-630"ld: warning: directory not found for option '-L/Volumes/VMware'ld: warning: directory not found for option '-LShared'ld: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox'ld: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-armv7-ipad-release(pptv)-1.1.0.8319/ios-armv7.ipad'ld: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.6503/ios-simulator.ipad'ld: warning: directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.8310/ios-simulator.ipad'6(21%IDEActivityLogMessage2@50"Directory not found for option '-L/Volumes/VMware'-429167282#0#64#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@41"Directory not found for option '-LShared'-429167282#64#55#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@64"Directory not found for option '-LFolders/MacSharedFolder/ppbox'-429167282#119#78#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@125"Directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-armv7-ipad-release(pptv)-1.1.0.8319/ios-armv7.ipad'-429167282#197#139#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@133"Directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.6503/ios-simulator.ipad'-429167282#336#147#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@133"Directory not found for option '-LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.8310/ios-simulator.ipad'-429167282#483#147#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#1#--1929"Ld xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw normal i386    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -L/Volumes/VMware -LShared -LFolders/MacSharedFolder/ppbox -LFolders/MacSharedFolder/ppbox/ppbox-ios-armv7-ipad-release(pptv)-1.1.0.8319/ios-armv7.ipad -LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.6503/ios-simulator.ipad -LFolders/MacSharedFolder/ppbox/ppbox-ios-simulator-ipad-release(pptv)-1.1.0.8310/ios-simulator.ipad -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator -filelist /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/testdraw.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreText -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/Objects-normal/i386/testdraw_dependency_info.dat -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/testdraw36"202732F1-0DE2-4665-8DD1-905DD4D2755B-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CProcessInfoPlistFile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist
-s429167285.708198
-e429167285.740730
-r1
-xProcessInfoPlistFile
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist130"ProcessInfoPlistFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist testdraw/testdraw-Info.plist9967b5b59294b941^eca5bdb59294b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist0000000000000000^1001"ProcessInfoPlistFile xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist testdraw/testdraw-Info.plist    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Info.plist -genpkginfo /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/assetcatalog_generated_info.plist -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app/Info.plist36"534EED48-4AC4-474D-BE0D-E7FB5B18D85B-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CProcessPCH /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch testdraw/testdraw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s429167268.202627
-e429167282.252402
-r1
-xProcessPCH
-x/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch
-xtestdraw/testdraw-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile testdraw/testdraw-Prefix.pch235"ProcessPCH xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch testdraw/testdraw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9cfb33a49294b941^f5a040b29294b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Prefix.pch0000000000000000^3877"ProcessPCH xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch testdraw/testdraw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Disk1/Src/testdraw/ArcSectorControl    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-generated-files.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-own-target-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-all-target-headers.hmap -iquote /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/testdraw-project-headers.hmap -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources/i386 -I/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/testdraw.build/Debug-iphonesimulator/testdraw.build/DerivedSources -F/Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.d -c /Volumes/Disk1/Src/testdraw/ArcSectorControl/testdraw/testdraw-Prefix.pch -o /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Intermediates/PrecompiledHeaders/testdraw-Prefix-fftwmuqmhacpqiewhmmviaubjeva/testdraw-Prefix.pch.pch36"70D10083-95CA-48E6-8A23-85DE2D335957-
-b80112594-F3D3-4A8A-AF35-CBC65765A75B
-
-CProcessPCH /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Index/PrecompiledHeaders/testdraw-Prefix-bccoovhcajinzodwfrvlkddcwzwe_ast/testdraw-Prefix.pch.pch testdraw/testdraw-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Volumes/Disk1/Src/testdraw/ArcSectorControl/xcodebuild/testdraw/Build/Products/Debug-iphonesimulator/testdraw.app
-r0
-
